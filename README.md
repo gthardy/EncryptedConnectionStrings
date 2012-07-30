@@ -1,8 +1,8 @@
 # Encrypt/Decrypt Connection String from App.Config 
 I have been investigating centralizing encrypted connections strings for multiple data sources across many servers. 
-In this scenario let’s say you have a few development servers an integration server, a user acceptance server and finally a set of production servers. 
+In this scenario you have a few development servers. Perhaps an integration server, a user acceptance server and finally a set of production servers. 
 Your applications connect to multiple line-of-business resources both development and production data. 
-So you need a place to store these in repositories without having to change your code each time you deploy them to the next environment.velopers for developers. 
+You need a place to store these in repositories without having to change your code each time you deploy them to the next environment. 
 
 
 # License
